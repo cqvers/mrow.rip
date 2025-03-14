@@ -73,6 +73,7 @@ p[style] i:hover {
 .small {
     color: #e8e8e899;
     font-size: 0.9rem;
+    padding: 10px;
 }
 
 .divider {
